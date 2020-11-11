@@ -103,7 +103,7 @@ class PrintContent
             }
 
             if (mime == null) {
-                mime = "application/pdf;
+                mime = "application/pdf";
             }
             switch (mime)
             {
